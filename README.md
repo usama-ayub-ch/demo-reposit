@@ -1,1 +1,3 @@
-# demo-reposit
+# Demo for Git
+
+Detail
